@@ -1,1 +1,1 @@
-# DAY 2 Backgroung change
+# DAY 2 Background change
